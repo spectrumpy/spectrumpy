@@ -1,8 +1,20 @@
-Python integration for Spectrum and Spectrum Spatial with Jupyter Notebook examples
-===================================================================================
+==============================================================
+Spectrum integration for Python with Jupyter Notebook examples
+==============================================================
 
+This project contains two python packages that expose Spectrum functionality for use within python environments. It also contains a folder containing two Jupyter notebooks that provide documentation for the packages and examples for how to use them.
 
+python packages
+***************
+There are two python packages: spectrumpy and spectrumspatialpy. spectrumpy provides basic Spectrum exposure into python, including exposure of custom web services exposed from data flows. spectrumspatialpy wraps the web services from Spectrum Spatial for spatial data integration and mapping analysis. This is created as a separate package because it has dependencies that are not needed for other Spectrum integration use cases.
 
+Jupyter notebooks
+***************
+There are two notebooks provided.
+`Spectrum Python Package - Jupyter Notebook Spectrum Python Package - Jupyter Notebook.pdf` and `Spectrum Spatial - Jupyter Notebook Spectrum Spatial - Jupyter Notebook.pdf`
+
+Copyright
+***************
 Copyright 2019 Pitney Bowes Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
