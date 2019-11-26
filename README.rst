@@ -11,7 +11,7 @@ There are two python packages: spectrumpy and spectrumspatialpy. spectrumpy prov
 Jupyter notebooks
 ***************
 There are two notebooks provided.
-`Spectrum Python Package - Jupyter Notebook <blob/master/Spectrum%20Python%20Package%20-%20Jupyter%20Notebook.pdf>` and `Spectrum Spatial - Jupyter Notebook <blob/master/Spectrum%20Spatial%20-%20Jupyter%20Notebook.pdf>`
+`Spectrum Python Package - Jupyter Notebook <blob/master/Spectrum%20Python%20Package%20-%20Jupyter%20Notebook.pdf>`_ and `Spectrum Spatial - Jupyter Notebook <blob/master/Spectrum%20Spatial%20-%20Jupyter%20Notebook.pdf>`_.
 
 Copyright
 ***************
