@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+src/spectrumpy/__init__.py
+src/spectrumpy/servers.ini
+src/spectrumpy/spectrumpy.py
+src/spectrumpy.egg-info/PKG-INFO
+src/spectrumpy.egg-info/SOURCES.txt
+src/spectrumpy.egg-info/dependency_links.txt
+src/spectrumpy.egg-info/not-zip-safe
+src/spectrumpy.egg-info/requires.txt
+src/spectrumpy.egg-info/top_level.txt

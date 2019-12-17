@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: spectrumpy
+Version: 0.1
+Summary: Client integration of Pitney Bowes Spectrum Technology Platform for Python
+Home-page: https://github.com/PitneyBowes/spectrumpy
+Author: Cary Peebles
+Author-email: cary.peebles@pb.com
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

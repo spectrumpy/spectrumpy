@@ -1,25 +1,21 @@
+![Pitney Bowes](/PitneyBowes_Logo.jpg)
+# spectrumspatialpy
+
 Spectrum Spatial Web Service python integration
 ======================================================
 
-|PyPI|
-
-.. |PyPI|
-   image:: https://img.shields.io/pypi/v/spectrumspatialpy.svg
-   :target: https://pypi.python.org/pypi/spectrumspatialpy
-
 As usual, install using pip:
 
-.. code-block:: sh
+```scripting
 
-   $ pip install spectrumspatialpy  # from PyPI
-   $ pip install git+https://github.com/spectrumpy/spectrumspatialpy  # from Github
+   $ pip install git+https://github.com/PitneyBowes/spectrumpy#egg=spectrumspatialpy  # from Github
 
-
+```
 
 Copyright 2019 Pitney Bowes Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0 
+<http://www.apache.org/licenses/LICENSE-2.0>
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and limitations under the License.
